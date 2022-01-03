@@ -91,7 +91,7 @@ public:
 		{
 			price = BIGPRICE;
 		}
-		order = 0;
+		order = 0;//44
 	}
 }
 static int room::count = 100;
